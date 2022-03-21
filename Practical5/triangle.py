@@ -1,0 +1,11 @@
+#pepseudocode:print 1:1     print2:1+2     ......
+print("1:1")
+print("2:3")
+print("3:6")
+print("4:10")
+print("5:15")
+print("6:21")
+print("7:28")
+print("8:36")
+print("9:45")
+print("10:55")
